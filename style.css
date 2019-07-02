@@ -1,0 +1,128 @@
+/*** General CSS ***/
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 3.5em;
+}
+
+:focus {
+    outline-style: none;
+    outline-width: 0px !important;
+    outline-color: none !important;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+.bg_nav{
+  background-color: #F5F5F5;
+}
+
+.bg_transparent{
+  background-color: transparent;
+}
+
+.container_bg{
+  width: 100%;
+  height: auto;
+  background-image: url("Img/BG3.jpg");
+  background-color: #464646;
+  background-size: cover;
+  background-position: left;
+  padding-top: 4em;
+  padding-bottom: 4em;
+}
+
+.main_title{
+  font-weight: 700;
+  color: #FFFFFF;
+  font-size: 2.25em;
+}
+
+.description{
+  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 1.25em;
+}
+
+.section_title{
+  color: #464646;
+  font-weight: 700;
+  font-size: 1.875em;
+}
+
+.container_bg_2{
+  width: 100%;
+  height: auto;
+  background-color: #F5F5F5;
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
+
+.icon{
+  width: 4em;
+  height: auto;
+}
+
+.picture{
+  width: 10em;
+  height: auto;
+}
+
+.sub_title{
+  color: #464646;
+  font-weight: 700;
+  font-size: 1.25em;
+}
+
+.sub_description{
+  color: #464646;
+  font-weight: 400;
+  font-size: 1em;
+}
+
+.container_bg_3{
+  width: 100%;
+  height: auto;
+  background-image: url("Img/BG2.jpg");
+  background-color: #0083B0;
+  background-size: cover;
+  background-position: left;
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
+
+.section_title_white{
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 1.875em;
+}
+
+.sub_title_white{
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 1.25em;
+}
+
+.sub_description_white{
+  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 1em;
+}
+
+.nav_c{
+  border: none;
+  color: #464646;
+}
+
+.container_footer{
+  background-color: #1E1E1E;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.footer_text{
+  color: #FFFFFF;
+  font-size: 0.875em;
+}
