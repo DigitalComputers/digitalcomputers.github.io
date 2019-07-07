@@ -8,7 +8,7 @@ $(document).ready(function() {
                 autoplayTimeout:5000, //Время смены слайда
                 responsive:{ //Адаптивность. Кол-во выводимых элементов при определенной ширине.
                     0:{
-                        items:2
+                        items:1
                     },
                     600:{
                         items:3
