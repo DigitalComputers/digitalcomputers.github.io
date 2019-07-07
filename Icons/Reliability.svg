@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1000px" height="1000px" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00B4DB" offset="0%"></stop>
+            <stop stop-color="#0083B0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Custom-Preset">
+            <g id="Group-2">
+                <g id="Group" fill="url(#linearGradient-1)">
+                    <circle id="Oval" cx="500" cy="500" r="500"></circle>
+                </g>
+                <g id="Healthcare1" transform="translate(166.000000, 123.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M36.4571756,94.3732289 C82.8826789,134.752973 132.265396,140.77581 184.605324,112.44174 C236.945252,84.10767 286.327969,46.7382011 332.753472,0.333333333 C385.093401,49.9399578 434.476117,87.3094267 480.90162,112.44174 C527.327123,137.574053 576.70984,131.551216 629.049769,94.3732289 C680.094521,257.68506 680.094521,396.101784 629.049769,509.623401 C578.005016,623.145017 479.239583,704.378909 332.753472,753.325076 C182.943287,696.986292 84.1778544,615.7524 36.4571756,509.623401 C-11.2635033,403.494401 -11.2635033,265.077678 36.4571756,94.3732289 Z M333.666666,594.333332 C444.123615,594.333332 533.666666,504.790282 533.666666,394.333332 C533.666666,283.876383 444.123615,194.333333 333.666666,194.333333 C223.209716,194.333333 133.666666,283.876383 133.666666,394.333332 C133.666666,504.790282 223.209716,594.333332 333.666666,594.333332 Z" id="Combined-Shape"></path>
+                </g>
+                <polygon id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero" transform="translate(500.421356, 479.421356) rotate(45.000000) translate(-500.421356, -479.421356) " points="425.421356 604.421356 425.421356 554.421356 525.421356 554.421356 525.421356 354.421356 575.421356 354.421356 575.421356 604.421356"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
